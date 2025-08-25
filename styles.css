@@ -1,0 +1,25 @@
+* {
+    font-family: "Times New Roman", "Brush Script MT", sans-serif;
+    box-sizing: border-box;
+}
+.box {
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(183, 218, 218);
+}
+h1{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(177, 159, 194);
+}
+
+.list {
+    width: 160px;
+    height: 50px;
+    margin: 0;
+    padding-left: 60px;
+}

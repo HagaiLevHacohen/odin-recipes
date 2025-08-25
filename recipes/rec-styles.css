@@ -1,0 +1,38 @@
+* {
+    font-family: "Times New Roman", "Brush Script MT", sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(235, 212, 171);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(120, 190, 103)
+}
+
+p {
+    text-align: center;
+    font: "Authentic Font Family";
+}
+
+ul, ol {
+    width: 300px;
+    margin: 0 auto;
+    font-family: monospace;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 200px;
+    width: auto;
+}
+a {
+    color: red;
+    text-align: center;
+}
